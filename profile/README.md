@@ -1,10 +1,10 @@
-## Hi there 👋
+## whisp ⚡️ instant, AI-powered fact-checking
 
 
-**Here are some ideas to get you started:**
+**learn more at [whisp.ai](https://whisp.ai)**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ whisp provides instant fact-checking for the world's most pressing issues
+
+🌈 we're extra proud of our work on NLP, specifically [🪸 coralnu](https://github.com/whispAI/coralnu) and [💬 directquote-bert](https://github.com/whispAI/DirectQuote-BERT)
+
+👩‍💻 useful resources - all our docs are available right in the repo, please submit an issue if anything is unclear!
